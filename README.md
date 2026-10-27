@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Chorus Pro is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://chorus-pro.gouv.fr/
+Chorus Pro is the French public platform for electronic invoicing and payment processing between public administrations and their suppliers. It provides a portal where businesses can submit, track, and manage invoices, access payment status, and retrieve related documentation, supporting the French e‑invoicing ecosystem.
+
+**Areas:** Company · Payments · PublicSector · France · E-invoicing
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://chorus-pro.gouv.fr/)
+- [Documentation](https://doc.transport.data.gouv.fr/)
+- [API reference](https://www.data.gouv.fr/pages/spd/reference)
+- [Sign up](https://www.data.gouv.fr/register?next=/dataservices)
+- [Support](https://www.data.gouv.fr/support)
+- [Terms of service](https://www.data.gouv.fr/pages/legal/legal-notice)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/chorus-pro/](https://apis.io/providers/chorus-pro/).
